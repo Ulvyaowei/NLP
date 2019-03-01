@@ -1,0 +1,11 @@
+word1	word2	GoldSimilarity	WordNetSimiliarity
+sew  sews	1.0
+ate  eat	1.0
+think  thought	1.0
+soul  souls	1.0
+sews  sew	1.0
+thought  think	1.0
+felt  feel	1.0
+shabby  shabbier	1.0
+bet  look	1.0
+bet  calculate	1.0
